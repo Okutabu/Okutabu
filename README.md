@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [octav.space](octav.space)
 
-- 💬 Ask me about **Python,Typescript, Angular, Vue3, Svelte, Kotlin, Java,Linux**
+- 💬 Ask me about **Python,Typescript, C++, Kotlin, Java,Linux**
 
 - 📫 How to reach me **ortav.tomegah@outlook.fr**
 
