@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ortav Tomegah</h1>
 <h3 align="center">A passionate IT student from France</h3>
 
-- 🌱 I’m currently learning **Flutter and LLM training for specific knowledge**
+- 🌱 I’m currently learning **WebGL and shaders**
+
+- 🔭 I just recently built this web app [Anhphicture](https://anhphicture.vercel.app/)
 
 - 🔭 I've worked on this web app [Collaborative developer Experience](https://github.com/Okutabu/collaborative_developer_experience)
 
 - 🔭 I’ve been introduced to the basics of Deep Learning [Basic Linear Classification](https://github.com/Okutabu/First-Classification-Model-On-A-Single-Neuron)
 
-- 📝 I regularly write articles on [octav.space](octav.space)
-
-- 💬 Ask me about **Python,Typescript, C++, Java,Linux**
+- 💬 Ask me about **Javascript, Angular, Java, Linux, DDD**
 
 - 📫 How to reach me **ortav.tomegah@outlook.fr**
 
